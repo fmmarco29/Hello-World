@@ -1,2 +1,2 @@
 # Hello-World
-Statring point
+Starting point
